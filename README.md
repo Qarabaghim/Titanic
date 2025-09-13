@@ -13,4 +13,4 @@
 ## اجرا
 ```bash
 pip install -r requirements.txt
-python -m Titznic.py
+python -m Titanic.py
